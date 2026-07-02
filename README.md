@@ -53,7 +53,7 @@ powershell-security-toolkit/
 
 ```powershell
 # Clone the repo
-git clone https://github.com/jcalleon/powershell-security-toolkit.git
+git clone https://github.com/jacobcalleon/powershell-security-toolkit.git
 cd powershell-security-toolkit
 
 # CIS Benchmark audit (local)
